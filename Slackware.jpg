@@ -1,0 +1,1 @@
+sbopkg -ki 'pysetuptools protobuf perl-IO-Tty mosh'
